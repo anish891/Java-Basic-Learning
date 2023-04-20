@@ -592,14 +592,5 @@ public class JavaBasics {
 
 
 
-    // functions/methods - a block of code that can perform a task any number of times
-
-    // Syntax 
-    //  retyrnType name (){
-    //     body
-    //     return statement
-    // }
-
-
     }
 }
